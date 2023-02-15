@@ -54,14 +54,16 @@ npm i
 
 
 ### Depoly İşlemi;
+>Terminale aşağıdaki kodu yazıyoruz.
 ```
 node deploy.js
 
 ```
 ### Sonuç
-Görseldeki gibi bir çıktı alacaksınız. Bu kodu kopyalıyoruz.
+> Görseldeki gibi bir çıktı alacaksınız. Bu kodu kopyalıyoruz.
 ![sonuc](https://user-images.githubusercontent.com/111747226/219136756-6a5b359e-02ce-4db6-8bc4-624f5ad73ca9.png)
-[Buradan](https://explorer.5ire.network/) explorer giderek kontrol edebilirsiniz. Aşağıdaki gibi bir çıktı elde edeceksiniz. Aşağıdaki görseldeki gibi sonuçlandırmış oluyoruz.
+
+> [Buradan](https://explorer.5ire.network/) explorer giderek kontrol edebilirsiniz. Aşağıdaki gibi bir çıktı elde edeceksiniz. Aşağıdaki görseldeki gibi sonuçlandırmış oluyoruz.
 ![wasm-2](https://user-images.githubusercontent.com/111747226/219138326-804ceb73-8654-46b8-9ef1-a5f614d935db.png)
 
 ## Taiko Discord kanalımıza katılmayı unutmayın;
