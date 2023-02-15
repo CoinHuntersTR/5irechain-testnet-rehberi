@@ -66,8 +66,8 @@ node deploy.js
 > [Buradan](https://explorer.5ire.network/) explorer giderek kontrol edebilirsiniz. Aşağıdaki gibi bir çıktı elde edeceksiniz. Aşağıdaki görseldeki gibi sonuçlandırmış oluyoruz.
 ![wasm-2](https://user-images.githubusercontent.com/111747226/219138326-804ceb73-8654-46b8-9ef1-a5f614d935db.png)
 
-## Taiko Discord kanalımıza katılmayı unutmayın;
-### [Discord](https://discord.gg/TNDcT4UnB7)
+##  Discord kanalımıza katılmayı unutmayın;
+### [Coin Hunters Discord](https://discord.gg/TNDcT4UnB7)
 
 ## Yarım için telegram kanalımız;
 ### [Coin Hunters Telegram](https://t.me/CoinHuntersTR)
